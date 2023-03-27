@@ -1,2 +1,9 @@
 openai
 python-dotenv
+twitchio
+asyncio
+obs-websocket-py
+reactivex
+gTTS
+requests >=2.27, <3
+ffmpeg-python

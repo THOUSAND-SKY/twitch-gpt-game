@@ -2,3 +2,7 @@
 __pycache__
 state.json
 app.log
+output
+*.mp3
+*.tmp
+assets
